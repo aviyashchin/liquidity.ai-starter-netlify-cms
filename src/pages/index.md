@@ -1,70 +1,60 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: LIQUIDITY.AI
+image: /img/andy.gif
+heading: >-
+  We are the Bloomberg terminal for climate risk, making difficult calculations
+  accessible in a highly-customizable, application-agnostic environment.
+subheading: Bridging the gap between climate models and business impact
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Liquidity.ai
+  description: >-
+    Our software translates the predictions of best-in-class climate models into
+    meaningful economic and financial outcomes, so that any business can better
+    understand, quantify, and manage their exposure to climate change risk.  
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  ClimateLens.ai digests climate and weather predictions to obtain
+  representations of:
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: "•\tRisks to commercial and residential property"
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: "•\tDisruptions to logistics and transportation infrastructure"
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: "•\tFluctuations in agricultural commodity prices"
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: "•\tChanges in energy markets and energy prices"
+    - image: /img/andy.gif
+      text: "•\tAdverse health outcomes"
+    - image: /img/andy.gif
+      text: "•\tMacroeconomic indicators: e.g., incomes, labor supply, productivity"
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "•\tRisks to commercial and residential property\n•\tDisruptions to logistics and transportation infrastructure\n•\tFluctuations in agricultural commodity prices\n•\tChanges in energy markets and energy prices\n•\tAdverse health outcomes\n•\tMacroeconomic indicators: e.g., incomes, labor supply, productivity"
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Outcomes are mapped geographically at building-level resolutions
+  description: >-
+    Using our intuitive interface, users can model climate impacts on their
+    existing production processes or holdings and explore how alternative
+    arrangements modify and mitigate their climate risk exposure.  [CAD features
+    simplify the input process; all a user needs to do is place a group of
+    ready-made objects in space and define connections between the objects.]
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: >-
+      We achieve superior outcomes because we aggregate and fuse more data
+      sources than any other service. 
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: >-
+      We also solve many daunting computational problems. Our on-demand
+      computation engine makes timely analysis tractable without requiring
+      significant investments in new local or cloud-based computing resources.
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: >-
+      Using our intuitive interface, users can model climate impacts on their
+      existing production processes or holdings and explore how alternative
+      arrangements modify and mitigate their climate risk exposure.  
     image: /img/products-grid1.jpg
 ---
+
