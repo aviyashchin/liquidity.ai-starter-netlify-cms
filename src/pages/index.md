@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: LIQUIDITY.AI
-image: /img/andy.gif
+image: /img/citibike.webp
 heading: >-
   We are the Bloomberg terminal for climate risk, making difficult calculations
   accessible in a highly-customizable, application-agnostic environment.
@@ -17,17 +17,17 @@ description: >-
   representations of:
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/flooding2.jpg
       text: "•\tRisks to commercial and residential property"
-    - image: /img/coffee-gear.png
+    - image: /img/satelliteview.jpg
       text: "•\tDisruptions to logistics and transportation infrastructure"
-    - image: /img/tutorials.png
+    - image: /img/products-grid1.jpg
       text: "•\tFluctuations in agricultural commodity prices"
-    - image: /img/meeting-space.png
+    - image: /img/heatwaves.jpg
       text: "•\tChanges in energy markets and energy prices"
-    - image: /img/andy.gif
+    - image: /img/wildfires.jpg
       text: "•\tAdverse health outcomes"
-    - image: /img/andy.gif
+    - image: /img/survivorship-bias.jpg
       text: "•\tMacroeconomic indicators: e.g., incomes, labor supply, productivity"
   heading: What we offer
   description: "•\tRisks to commercial and residential property\n•\tDisruptions to logistics and transportation infrastructure\n•\tFluctuations in agricultural commodity prices\n•\tChanges in energy markets and energy prices\n•\tAdverse health outcomes\n•\tMacroeconomic indicators: e.g., incomes, labor supply, productivity"
