@@ -3,8 +3,9 @@ templateKey: index-page
 title: LIQUIDITY.AI
 image: /img/citibike.webp
 heading: >-
-  We are the Bloomberg terminal for climate risk, making difficult calculations
-  accessible in a highly-customizable, application-agnostic environment.
+  We are the Bloomberg(TM) terminal for climate risk, making difficult
+  calculations accessible in a highly-customizable, application-agnostic
+  environment.
 subheading: Bridging the gap between climate models and business impact
 mainpitch:
   title: Why Liquidity.ai
@@ -13,8 +14,8 @@ mainpitch:
     meaningful economic and financial outcomes, so that any business can better
     understand, quantify, and manage their exposure to climate change risk.  
 description: >-
-  ClimateLens.ai digests climate and weather predictions to obtain
-  representations of:
+  Liquidity.ai digests climate and weather predictions to obtain representations
+  of:
 intro:
   blurbs:
     - image: /img/flooding2.jpg
