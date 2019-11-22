@@ -3,8 +3,9 @@ templateKey: index-page
 title: LIQUIDITY.AI
 image: /img/citibike.webp
 heading: >-
-  We are the Bloomberg terminal for climate risk, making difficult calculations
-  accessible in a highly-customizable, application-agnostic environment.
+  We are the Bloomberg (tm) terminal for climate risk, making difficult
+  calculations accessible in a highly-customizable, application-agnostic
+  environment.
 subheading: Bridging the gap between climate models and business impact
 mainpitch:
   title: Why Liquidity.ai
